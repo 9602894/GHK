@@ -10,14 +10,14 @@
             "api": "csp_Nostr",
             "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
         },
-        {
-            "key": "FY",
-            "name": "枫叶",
-            "type": 3,
-            "searchable": 0,
-            "api": "csp_枫叶",
-            "homePage": "./html/枫叶.html"
-        },
+       {
+      "key": "FY",
+      "name": "🍁 枫叶",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_fwngye",
+      "homePage": "./html/枫叶.html"
+      },
         {
             "key": "豆瓣",
             "name": "豆瓣｜首页",
