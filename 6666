@@ -1,6 +1,6 @@
 {
 
-  "spider": "https://nos.netease.com/ysf/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
+  "spider": "./spider.jar",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -11,14 +11,17 @@
             "api": "csp_Nostr",
             "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
         },
-       {
-      "key": "FY",
-      "name": "🍁 枫叶",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_fwngye",
-      "homePage": "./html/枫叶.html"
-      },
+      {"key":"Nostr","name":"🍅┃Nostr┃推荐","type":3,"api":"csp_Nostr","homePage":"./html/nostr.html"},
+{"key":"FY","name":"🏄‍♂️┃枫叶┃影视","type":3,"api":"csp_fwngye","homePage":"./html/枫叶影院.html"},
+{"key":"CZ","name":"👨‍🏭┃厂长┃资源","type":3,"api":"csp_cz","homePage":"./html/厂长.html"},
+{"key":"WB","name":"🪶┃歪比┃巴卜","type":3,"api":"csp_wb","homePage":"./html/歪比.html"},
+{"key":"TV52","name":"📺┃52TV┃体育","type":3,"api":"csp_52tv","homePage":"./html/52tv.html"},
+{"key":"Emby","name":"🎬┃Emby┃推荐","type":3,"api":"csp_Emby","homePage":"./html/emby.html"},
+{"key":"Fish","name":"🐟┃FISH┃TMDB","type":3,"api":"csp_Fish","homePage":"./html/fish.html"},
+{"key":"Libvio","name":"📚┃LIBVIO┃影视","type":3,"api":"csp_Libvio","homePage":"./html/libvio.html"},
+{"key":"MissAV","name":"🔞┃MissAV┃番号","type":3,"api":"csp_MissAV","homePage":"./html/missav.html"},
+{"key":"TQ","name":"🍩┃甜圈┃短剧","type":3,"api":"csp_TQ","homePage":"./html/WEb.html"},
+{"key":"WhosTV","name":"🔍┃WhosTV┃番号","type":3,"api":"csp_WhosTV","homePage":"./html/whostv.html"},
         {
       "key": "ZJ",
       "name": "厂长",
