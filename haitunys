@@ -372,7 +372,9 @@
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
-         {"key": "无尽资源", "name": "🐬无尽资源｜🔞", "type": 1, "api": "https://api.wujinapi.net/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "虎牙资源", "name": "🐬虎牙资源🔞", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "xbzy", "name": "🐬杏吧｜🔞", "type": 1, "api": "https://xingba111.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "无尽资源", "name": "🐬无尽资源｜🔞", "type": 1, "api": "https://api.wujinapi.net/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
         {"key": "玉兔资源", "name": "🐬玉兔資源｜🔞", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
         {"key": "精品资源", "name": "🐬精品資源｜🔞", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
         {"key": "夜色资源", "name": "🐬越南資源｜🔞", "type": 1, "api": "https://www.vnzyz.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
