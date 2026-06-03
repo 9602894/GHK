@@ -372,6 +372,7 @@
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
        {"key": "步步高资源", "name": "🐬步步高资源｜🔞", "type": 1, "api": "https://api.yparse.com/api/json", "searchable": 1, "quickSearch": 1, "filterable": 1},
+       {"key": "1080资源库", "name": "🐬1080资源库｜🔞", "type": 1, "api": "https://api.1080zyku.com/inc/api_mac10.php", "searchable": 1, "quickSearch": 1, "filterable": 1},
        {
             "key": "百万",
             "name": "🐬百万｜🔞",
